@@ -14,6 +14,7 @@ Garantir que as soluções tecnológicas estejam em total conformidade com a leg
 Sempre que o projeto envolver o setor público, os seguintes pilares devem ser consultados:
 - **Legislação**: Lei de Licitações (14.133/21), Lei de Acesso à Informação (LAI), LGPD e Marco Civil da Internet.
 - **Órgãos de Controle**: Recomendações e manuais da **CGU** (Controladoria-Geral da União) e **AGU** (Advocacia-Geral da União).
+- **Padronização**: Consultar o [Instrumento de Padronização dos Procedimentos de Contratação da AGU (Fev/2024)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/guias/instrumento-de-padronizacao-dos-procedimento-de-contratacao-agu-fev-2024.pdf).
 - **Jurisprudência**: Entendimentos do **TCU** (Tribunal de Contas da União) relevantes para a regra de negócio.
 - **Ecossistema Gov**: APIs do Governo (Gov.br, Compras.gov.br), Manuais de Redação da Presidência e diretrizes de escolas governamentais (ENAP, etc.).
 
