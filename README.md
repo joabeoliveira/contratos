@@ -12,7 +12,9 @@ Este repositório contém o **Kit Skills**, uma coleção de padrões de arquite
 ## 📂 Estrutura do Projeto
 
 ```text
-.skills/
+.
+├── .cursorrules         # Regras globais de comportamento do Agente
+├── .skills/
 ├── nextjs-architecture/ # Documentação de arquitetura
 │   └── SKILL.md
 ├── design-system/      # Guia do Design System
