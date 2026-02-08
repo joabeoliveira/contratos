@@ -1,48 +1,53 @@
-# Kit Skills - Next.js & n8n
+# 🚀 Kit Skills - Next.js, n8n & Gov-Tech
 
-Este repositório contém o **Kit Skills**, uma coleção de padrões de arquitetura, design system e integrações para acelerar o desenvolvimento de aplicações modernas com Next.js e automações com n8n.
+O seu pilar fundamental para iniciar qualquer projeto Web de alto nível, com foco em performance, segurança e conformidade governamental.
 
-## 🚀 O que há no Kit?
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Next.js](https://img.shields.io/badge/Next.js-15+-black?logo=next.js)](https://nextjs.org/)
+[![n8n](https://img.shields.io/badge/n8n-Integration-red?logo=n8n)](https://n8n.io/)
 
-- **Arquitetura**: Definições de padrões de projeto e estrutura de pastas.
-- **Design System**: Guia de estilos, cores e componentes premium.
-- **Integração n8n**: Workflows e padrões para conectar sua aplicação a automações poderosas.
-- **Starter Next.js**: Configuração base com Docker para início rápido.
+## 🌟 O que é o Kit Skills?
 
-## 📂 Estrutura do Projeto
+Este não é apenas um "boilerplate". É um ecossistema de inteligência projetado para trabalhar em conjunto com agentes de IA (como Antigravity e Cursor). Ele contém habilidades (Skills) e regras (Rules) pré-configuradas que garantem que cada linha de código escrita siga os mais altos padrões do mercado e da Administração Pública brasileira.
+
+## 🏆 Pilares Inclusos
+
+- **⚖️ Administração Pública**: Conformidade com a Lei 14.133/21, recomendações da AGU (Fev/2024), CGU e TCU.
+- **🛡️ Segurança & LGPD**: Privacy by Design, criptografia e proteção contra vulnerabilidades.
+- **♿ Acessibilidade (e-MAG)**: Interfaces acessíveis conforme e-MAG e WCAG.
+- **🤖 IA & Prompt Engineering**: Padrões de integração com LLMs e UX conversacional.
+- **⚡ Performance Vercel**: Otimização de bundle, eliminação de waterfalls e streaming.
+- **🔍 SEO Avançado**: Metadados dinâmicos e estrutura semântica perfeita.
+- **🧪 Testes & Debug**: Estratégia completa com Vitest, Playwright e trilha de auditoria.
+
+## 📂 Estrutura do Repositório
 
 ```text
 .
-├── .cursorrules         # Regras globais de comportamento do Agente
-├── .skills/
-├── nextjs-architecture/ # Documentação de arquitetura
-│   └── SKILL.md
-├── design-system/      # Guia do Design System
-│   └── SKILL.md
-├── n8n-integration/    # Guia de integração com n8n
-│   └── SKILL.md
-├── seo-best-practices/  # Melhores práticas de SEO
-│   └── SKILL.md
-├── testing-and-debugging/ # Estratégias de testes e debug
-│   └── SKILL.md
-├── public-admin-rules/  # Normas e leis da Administração Pública
-│   └── SKILL.md
-├── accessibility-emag/  # Acessibilidade Gov e WCAG
-│   └── SKILL.md
-├── security-and-lgpd/   # Segurança e conformidade LGPD
-│   └── SKILL.md
-├── ai-and-prompt-engineering/ # Engenharia de IA e Prompts
-│   └── SKILL.md
-└── starter-nextjs/      # Template base Dockerizado
-    ├── Dockerfile
-    └── docker-compose.yml
+├── .cursorrules           # O "Cérebro" Global (Instruções para IAs)
+├── .skills/               # O Arsenal de Conhecimento (Native Skills)
+│   ├── accessibility-emag/
+│   ├── ai-and-prompt-engineering/
+│   ├── design-system/
+│   ├── n8n-integration/
+│   ├── nextjs-architecture/
+│   ├── performance-optimization/
+│   ├── public-admin-rules/
+│   ├── security-and-lgpd/
+│   ├── seo-best-practices/
+│   └── testing-and-debugging/
+└── starter-nextjs/        # Template base Dockerizado (Dockerfile/Compose)
 ```
 
-## 🛠️ Como usar
+## 🛠️ Como Usar no seu Projeto
 
-1. Explore os arquivos na pasta `.skills` para entender os padrões.
-2. Utilize o `starter-nextjs` como base para novos projetos.
-3. Siga o guia de integração para conectar seus fluxos ao n8n.
+1. **Clone este repositório** como sua base inicial ou adicione-o como um submódulo.
+2. **Configure seu Agente de IA**: Aponte o seu editor (Cursor/VS Code) para ler o arquivo `.cursorrules`. Isso fará com que a IA passe a seguir todas as Skills automaticamente.
+3. **Siga o Starter**: Entre na pasta `starter-nextjs` para subir seu ambiente Docker em segundos.
+
+## 🤝 Contribuições
+
+Este Kit é vivo! Se você encontrar uma nova jurisprudência do TCU, uma norma da AGU ou uma melhoria de performance, sinta-se à vontade para abrir um Pull Request.
 
 ---
-*Criado com ❤️ por Antigravity*
+Criado com ❤️ por **Joabe Oliveira** e potencializado por **Antigravity AI**.
