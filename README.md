@@ -19,6 +19,8 @@ Este repositório contém o **Kit Skills**, uma coleção de padrões de arquite
 │   └── SKILL.md
 ├── n8n-integration/    # Guia de integração com n8n
 │   └── SKILL.md
+├── seo-best-practices/  # Melhores práticas de SEO
+│   └── SKILL.md
 └── starter-nextjs/      # Template base Dockerizado
     ├── Dockerfile
     └── docker-compose.yml
