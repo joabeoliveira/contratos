@@ -25,6 +25,8 @@ Este repositório contém o **Kit Skills**, uma coleção de padrões de arquite
 │   └── SKILL.md
 ├── testing-and-debugging/ # Estratégias de testes e debug
 │   └── SKILL.md
+├── public-admin-rules/  # Normas e leis da Administração Pública
+│   └── SKILL.md
 └── starter-nextjs/      # Template base Dockerizado
     ├── Dockerfile
     └── docker-compose.yml

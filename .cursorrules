@@ -12,6 +12,7 @@ Antes de escrever qualquer código, você deve consultar as orientações nas pa
 - **Design System**: Use Shadcn/UI + Tailwind. Priorize acessibilidade e Dark Mode.
 - **Performance**: Evite waterfalls e use `next/dynamic` para componentes pesados.
 - **SEO**: Garanta que cada página tenha metadados únicos e estrutura semântica correta.
+- **Setor Público**: Se o projeto envolver Administração Pública, consulte SEMPRE as leis e jurisprudências citadas na Skill correspondente e fundamente o código com comentários de referência legal.
 
 ## 3. Fluxo de Integração (n8n)
 - **CRITICAL**: Antes de configurar qualquer webhook ou integração, pergunte explicitamente: *"Este projeto terá o n8n embarcado/integrado?"*. Se a resposta for não, ignore os padrões de n8n.
