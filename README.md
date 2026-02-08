@@ -23,6 +23,8 @@ Este repositório contém o **Kit Skills**, uma coleção de padrões de arquite
 │   └── SKILL.md
 ├── seo-best-practices/  # Melhores práticas de SEO
 │   └── SKILL.md
+├── testing-and-debugging/ # Estratégias de testes e debug
+│   └── SKILL.md
 └── starter-nextjs/      # Template base Dockerizado
     ├── Dockerfile
     └── docker-compose.yml
