@@ -13,6 +13,9 @@ Antes de escrever qualquer código, você deve consultar as orientações nas pa
 - **Performance**: Evite waterfalls e use `next/dynamic` para componentes pesados.
 - **SEO**: Garanta que cada página tenha metadados únicos e estrutura semântica correta.
 - **Setor Público**: Se o projeto envolver Administração Pública, consulte SEMPRE as leis e jurisprudências citadas na Skill correspondente e fundamente o código com comentários de referência legal.
+- **Acessibilidade**: Siga o e-MAG/WCAG. Nunca desative o foco visual e use semântica correta.
+- **Segurança & LGPD**: Aplique Privacy by Design. Nunca exponha dados sensíveis e use tratamento de erros seguro.
+- **IA**: Use engenharia de prompts estruturada e garanta interfaces responsivas (streaming/feedback).
 
 ## 3. Fluxo de Integração (n8n)
 - **CRITICAL**: Antes de configurar qualquer webhook ou integração, pergunte explicitamente: *"Este projeto terá o n8n embarcado/integrado?"*. Se a resposta for não, ignore os padrões de n8n.

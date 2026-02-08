@@ -27,6 +27,12 @@ Este repositório contém o **Kit Skills**, uma coleção de padrões de arquite
 │   └── SKILL.md
 ├── public-admin-rules/  # Normas e leis da Administração Pública
 │   └── SKILL.md
+├── accessibility-emag/  # Acessibilidade Gov e WCAG
+│   └── SKILL.md
+├── security-and-lgpd/   # Segurança e conformidade LGPD
+│   └── SKILL.md
+├── ai-and-prompt-engineering/ # Engenharia de IA e Prompts
+│   └── SKILL.md
 └── starter-nextjs/      # Template base Dockerizado
     ├── Dockerfile
     └── docker-compose.yml
