@@ -1,3 +1,8 @@
+---
+name: NextJS Architecture
+description: Padrões de arquitetura para Next.js App Router e Prisma ORM.
+---
+
 # Skill: Arquiteto Next.js & Prisma
 
 ## Goal

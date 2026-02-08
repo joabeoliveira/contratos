@@ -1,3 +1,8 @@
+---
+name: Design System Gov-Tech
+description: Guia de estilos, cores e componentes premium para interfaces governamentais e empresariais.
+---
+
 # Skill: Mestre de Design Gov-Tech
 
 ## Goal

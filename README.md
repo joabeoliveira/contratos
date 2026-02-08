@@ -13,9 +13,12 @@ Este repositório contém o **Kit Skills**, uma coleção de padrões de arquite
 
 ```text
 .skills/
-├── arquitecture.md      # Documentação de arquitetura
-├── design-system.md     # Guia do Design System
-├── n8n-integration.md   # Guia de integração com n8n
+├── nextjs-architecture/ # Documentação de arquitetura
+│   └── SKILL.md
+├── design-system/      # Guia do Design System
+│   └── SKILL.md
+├── n8n-integration/    # Guia de integração com n8n
+│   └── SKILL.md
 └── starter-nextjs/      # Template base Dockerizado
     ├── Dockerfile
     └── docker-compose.yml
