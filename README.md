@@ -1,0 +1,31 @@
+# Kit Skills - Next.js & n8n
+
+Este repositório contém o **Kit Skills**, uma coleção de padrões de arquitetura, design system e integrações para acelerar o desenvolvimento de aplicações modernas com Next.js e automações com n8n.
+
+## 🚀 O que há no Kit?
+
+- **Arquitetura**: Definições de padrões de projeto e estrutura de pastas.
+- **Design System**: Guia de estilos, cores e componentes premium.
+- **Integração n8n**: Workflows e padrões para conectar sua aplicação a automações poderosas.
+- **Starter Next.js**: Configuração base com Docker para início rápido.
+
+## 📂 Estrutura do Projeto
+
+```text
+.skills/
+├── arquitecture.md      # Documentação de arquitetura
+├── design-system.md     # Guia do Design System
+├── n8n-integration.md   # Guia de integração com n8n
+└── starter-nextjs/      # Template base Dockerizado
+    ├── Dockerfile
+    └── docker-compose.yml
+```
+
+## 🛠️ Como usar
+
+1. Explore os arquivos na pasta `.skills` para entender os padrões.
+2. Utilize o `starter-nextjs` como base para novos projetos.
+3. Siga o guia de integração para conectar seus fluxos ao n8n.
+
+---
+*Criado com ❤️ por Antigravity*
