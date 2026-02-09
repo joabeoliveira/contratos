@@ -2,8 +2,8 @@
 
 O seu pilar fundamental para iniciar qualquer projeto Web de alto nível, com foco em performance, segurança e conformidade governamental.
 
-[![CI](https://github.com/joabeoliveira/kit-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/joabeoliveira/kit-skills/actions)
-[![Dependabot Status](https://img.shields.io/badge/dependabot-enabled-brightgreen)](https://github.com/joabeoliveira/kit-skills/network/updates)
+[![CI](https://github.com/joabeoliveira/contratos/actions/workflows/ci.yml/badge.svg)](https://github.com/joabeoliveira/contratos/actions)
+[![Dependabot Status](https://img.shields.io/badge/dependabot-enabled-brightgreen)](https://github.com/joabeoliveira/contratos/network/updates)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🌟 O que é o Kit Skills?
@@ -64,7 +64,7 @@ Nesta iteração foram adicionadas e configuradas as seguintes funcionalidades p
 - Para dúvidas, use a seção de issues ou crie um PR com sua proposta.
 
 ## ℹ️ Recursos e links úteis
-- Actions: https://github.com/joabeoliveira/kit-skills/actions
+- Actions: https://github.com/joabeoliveira/contratos/actions
 - Licença: MIT
 
 ---
